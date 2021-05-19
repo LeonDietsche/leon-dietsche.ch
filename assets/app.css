@@ -244,10 +244,6 @@ body {
     .me .list a {
         font-size: 1.5rem
     }
-
-    .me .list a.mobile-hide {
-        display: none
-    }
 }
 
 .me .list a:hover {
@@ -264,7 +260,7 @@ body {
 
 .social-links {
     position: absolute;
-    bottom: 2vh;
+    bottom: 1vh;
     left: 0;
     right: 0;
     display: flex;
